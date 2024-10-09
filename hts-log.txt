@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Oct 2024 23:03:47 at https://askbootstrap.com/preview/osahan-eat/theme-sidebar/orders.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://askbootstrap.com/preview/osahan-eat/theme-sidebar/orders.html -O1 "D:\osahan-eat" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:04:38	Error: 	"Not Found" (404) at link https://askbootstrap.com/preview/osahan-eat/theme-sidebar/login.html (from https://askbootstrap.com/preview/osahan-eat/theme-sidebar/orders.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 88 links scanned, 86 files written (13863152 bytes overall) [10000885 bytes received at 188695 bytes/sec], 7168524 bytes transferred using HTTP compression in 49 files, ratio 42%, 22.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
